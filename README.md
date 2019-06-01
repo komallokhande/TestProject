@@ -1,5 +1,4 @@
 # TestProject
-
 1. Use this command to install dependencies for the project.
         npm install
         
